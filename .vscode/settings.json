@@ -1,0 +1,51 @@
+{
+  "editor.quickSuggestions": {
+    "other": "on",
+    "comments": "off",
+    "strings": true
+  },
+  "editor.formatOnSave": false,
+     "[json]":     {
+    "editor.defaultFormatter":  "ZainChen.json",
+    "editor.formatOnSave": true
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "html",
+    "typescriptreact"
+  ],
+  "eslint.options": {
+    "extensions": [
+      ".js",
+      ".jsx",
+      ".ts",
+      ".tsx",
+      ".md",
+      ".mdx"
+    ]
+  },
+  "cSpell.words": [],
+  "workbench.colorCustomizations": {
+    "sideBarSectionHeader.background": "#06e9bc"
+  },
+  "[prisma]": {
+    "editor.defaultFormatter": "Prisma.prisma",
+    "editor.formatOnSave": true
+  },
+  "stylelint.validate": [
+    "css",
+    "less",
+    "postcss",
+    "javascript",
+    "typescriptreact"
+  ],
+  "search.exclude": {
+    "**/.yarn": true,
+    "**/.pnp.*": true
+  },
+  "typescript.tsdk": "node_modules/typescript/lib"
+}
