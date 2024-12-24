@@ -1,18 +1,55 @@
 ---
 import "@/styles/globals.css";
-import {Button} from '@/components/ui/button'
+import { Button } from "@/components/ui/button";
+import MainNav from "@/layouts/main-nav";
+import FeaturesCard from "@/components/features-card";
+import FlyingIcons from "@/components/flying-icons";
 ---
 
 <html lang="en">
   <head>
     <meta charset="utf-8" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,400;0,500;0,600;0,700;0,800;0,900&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap"
+      rel="stylesheet"
+    />
     <meta name="viewport" content="width=device-width" />
     <meta name="generator" content={Astro.generator} />
     <title>Astro</title>
   </head>
   <body>
-    <h1>Astro</h1>
-    <Button>Click Me</Button>
+    <MainNav client:load />
+    <FlyingIcons client:load>
+      <div
+        class="flex flex-col align-middle justify-center px-4 pb-2 lg:w-[960px] text-center mx-auto my-14 gap-4 lg:gap-8 z-10 bg-background"
+      >
+        <h1 class="text-5xl text-foreground text-display-sm lg:text-display">
+          Navigate Your Diet With AI
+        </h1>
+        <p
+          class="text-display-subheading-sm lg:text-display-subheading text-muted-foreground max-w-[600px] mx-auto"
+        >
+          Get personalized weekly meal plans, automatic grocery lists, and
+          step-by-step guidance - all aligned with your diet goals.
+        </p>
+        <div>
+          <Button size="jumbo" className="shadow-lg shadow-primary"
+            >Get Early Access</Button
+          >
+        </div>
+      </div>
+    </FlyingIcons>
+    <div>
+      <FeaturesCard />
+    </div>
   </body>
 </html>
