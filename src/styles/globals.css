@@ -6,7 +6,7 @@
   :root {
     --background: 0 0% 100%;
     /* #ffffff */
-    --foreground: 235 15% 22%;
+    --foreground: 240 20% 11%;
     /* #2B2D42 */
     --card: 0 0% 100%;
     /* #ffffff */
@@ -16,7 +16,7 @@
     /* #ffffff */
     --popover-foreground: 235 10% 20%;
     /* #373a43 */
-    --primary: 12 100% 62%;
+    --primary: 14 100% 63%;
     /* #ff6c40 */
     --primary-foreground: 0 0% 100%;
     /* #ffffff */
@@ -26,7 +26,7 @@
     /* #ffffff */
     --muted: 0 0% 94%;
     /* #f0f0f0 */
-    --muted-foreground: 225 10% 60%;
+    --muted-foreground: 240 10% 28%;
     /* #8d99ae */
     --accent: 260 48% 83%;
     /* #d4c1f7 */

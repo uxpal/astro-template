@@ -3,7 +3,48 @@
 import { useState, useEffect, useRef } from "react";
 import { motion, useAnimation } from "framer-motion";
 import { Apple, Carrot, Fish, Soup, Coffee } from "lucide-react";
+
+import primitives from "./prmitives.json";
+
 const icons = [Apple, Carrot, Fish, Soup, Coffee];
+
+// Function to convert RGB to HSL
+function rgbToHsl(r, g, b) {
+  r = r / 1; // Normalize RGB values to [0, 1]
+  g = g / 1;
+  b = b / 1;
+
+  const max = Math.max(r, g, b);
+  const min = Math.min(r, g, b);
+  const delta = max - min;
+
+  let h = 0;
+  let s = 0;
+  const l = (max + min) / 2;
+
+  if (delta !== 0) {
+    s = l > 0.5 ? delta / (2 - max - min) : delta / (max + min);
+
+    switch (max) {
+      case r:
+        h = (g - b) / delta + (g < b ? 6 : 0);
+        break;
+      case g:
+        h = (b - r) / delta + 2;
+        break;
+      case b:
+        h = (r - g) / delta + 4;
+        break;
+    }
+    h = h / 6;
+  }
+
+  return {
+    h: Math.round(h * 360),
+    s: Math.round(s * 100),
+    l: Math.round(l * 100),
+  };
+}
 
 function FlyingIcon({
   Icon,
@@ -17,6 +58,26 @@ function FlyingIcon({
   const startY = Math.random() * 150 - 50;
   const endX = Math.random() * 150 - 50;
   const endY = Math.random() * 150 - 50;
+
+  const functur = (prmitives) => {
+    if (!primitives) return;
+    return prmitives.map((prmitive) => {
+      if (prmitive?.name?.includes("Colors")) {
+        const colorData = json.resolvedValuesByMode["2:0"].resolvedValue;
+        const r = colorData.r;
+        const g = colorData.g;
+        const b = colorData.b;
+
+        return rgbToHsl(r, g, b);
+      }
+      return null;
+    });
+  };
+  const b = 0.250980406999588;
+  const g = 0.42352941632270813;
+  const r = 1;
+
+  console.log("values", rgbToHsl(r, g, b));
 
   useEffect(() => {
     controls.start({

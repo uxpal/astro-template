@@ -1,0 +1,3253 @@
+{
+    "id": "VariableCollectionId:2:10",
+    "modes": {
+        "2:0": "Mode 1"
+    },
+    "name": "Primitives",
+    "variableIds": [
+        "VariableID:3:11",
+        "VariableID:4:12",
+        "VariableID:5:28",
+        "VariableID:4:14",
+        "VariableID:5:15",
+        "VariableID:5:16",
+        "VariableID:5:17",
+        "VariableID:5:18",
+        "VariableID:5:23",
+        "VariableID:5:19",
+        "VariableID:5:20",
+        "VariableID:5:21",
+        "VariableID:5:22",
+        "VariableID:5:24",
+        "VariableID:5:25",
+        "VariableID:5:26",
+        "VariableID:5:27",
+        "VariableID:5:35",
+        "VariableID:5:30",
+        "VariableID:5:31",
+        "VariableID:5:32",
+        "VariableID:5:33",
+        "VariableID:5:34",
+        "VariableID:29:1350",
+        "VariableID:29:1351",
+        "VariableID:32:19",
+        "VariableID:32:20",
+        "VariableID:32:21",
+        "VariableID:32:22",
+        "VariableID:117:42",
+        "VariableID:33:132",
+        "VariableID:33:133",
+        "VariableID:33:134",
+        "VariableID:33:135",
+        "VariableID:33:136",
+        "VariableID:33:137",
+        "VariableID:33:138",
+        "VariableID:33:139",
+        "VariableID:33:140",
+        "VariableID:33:141",
+        "VariableID:115:42",
+        "VariableID:33:142",
+        "VariableID:39:137",
+        "VariableID:39:138",
+        "VariableID:39:139",
+        "VariableID:39:140",
+        "VariableID:39:141",
+        "VariableID:39:142",
+        "VariableID:39:143",
+        "VariableID:39:144",
+        "VariableID:39:145",
+        "VariableID:39:147",
+        "VariableID:39:148",
+        "VariableID:39:149",
+        "VariableID:39:150",
+        "VariableID:39:151",
+        "VariableID:39:152",
+        "VariableID:39:153",
+        "VariableID:39:154",
+        "VariableID:39:155",
+        "VariableID:39:156",
+        "VariableID:39:157",
+        "VariableID:40:158",
+        "VariableID:40:159",
+        "VariableID:40:160",
+        "VariableID:40:161",
+        "VariableID:40:162",
+        "VariableID:40:163",
+        "VariableID:40:164",
+        "VariableID:40:165",
+        "VariableID:40:166",
+        "VariableID:40:167",
+        "VariableID:41:168",
+        "VariableID:41:169",
+        "VariableID:41:170",
+        "VariableID:41:171",
+        "VariableID:41:172",
+        "VariableID:41:173",
+        "VariableID:41:174",
+        "VariableID:41:175",
+        "VariableID:41:176",
+        "VariableID:41:177",
+        "VariableID:41:178",
+        "VariableID:41:179",
+        "VariableID:41:180",
+        "VariableID:41:181",
+        "VariableID:41:182",
+        "VariableID:41:183",
+        "VariableID:41:184",
+        "VariableID:41:185",
+        "VariableID:41:186",
+        "VariableID:41:187",
+        "VariableID:42:191",
+        "VariableID:42:192",
+        "VariableID:42:193",
+        "VariableID:42:194",
+        "VariableID:42:195",
+        "VariableID:42:196",
+        "VariableID:42:197",
+        "VariableID:42:198",
+        "VariableID:42:199",
+        "VariableID:42:200",
+        "VariableID:117:43",
+        "VariableID:117:44",
+        "VariableID:117:45",
+        "VariableID:117:46",
+        "VariableID:117:47",
+        "VariableID:117:48",
+        "VariableID:117:49",
+        "VariableID:117:50",
+        "VariableID:117:51",
+        "VariableID:117:52"
+    ],
+    "variables": [
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:3:11",
+            "name": "Display Font Sizes/display-lg",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": 32
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "FLOAT",
+            "valuesByMode": {
+                "2:0": 32
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:4:12",
+            "name": "Display Font Sizes/display-md",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": 28
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "FLOAT",
+            "valuesByMode": {
+                "2:0": 28
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:4:14",
+            "name": "Headings Font Sizes/heading-1",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": 32
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "FLOAT",
+            "valuesByMode": {
+                "2:0": 32
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:5:15",
+            "name": "Headings Font Sizes/heading-2",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": 28
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "FLOAT",
+            "valuesByMode": {
+                "2:0": 28
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:5:16",
+            "name": "Headings Font Sizes/heading-3",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": 25
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "FLOAT",
+            "valuesByMode": {
+                "2:0": 25
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:5:17",
+            "name": "Headings Font Sizes/heading-4",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": 22
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "FLOAT",
+            "valuesByMode": {
+                "2:0": 22
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:5:18",
+            "name": "Headings Font Sizes/heading-5",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": 20
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "FLOAT",
+            "valuesByMode": {
+                "2:0": 20
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:5:19",
+            "name": "Headings Font Sizes/heading-6",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": 18
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "FLOAT",
+            "valuesByMode": {
+                "2:0": 18
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:5:20",
+            "name": "UI Font Sizes/body",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": 16
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "FLOAT",
+            "valuesByMode": {
+                "2:0": 16
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:5:21",
+            "name": "UI Font Sizes/sm-text",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": 14
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "FLOAT",
+            "valuesByMode": {
+                "2:0": 14
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:5:22",
+            "name": "UI Font Sizes/xs-text",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": 12
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "FLOAT",
+            "valuesByMode": {
+                "2:0": 12
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:5:23",
+            "name": "UI Font Sizes/lg-text",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": 18
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "FLOAT",
+            "valuesByMode": {
+                "2:0": 18
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:5:24",
+            "name": "UI Font Sizes/label",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": 14
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "FLOAT",
+            "valuesByMode": {
+                "2:0": 14
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:5:25",
+            "name": "UI Font Sizes/link",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": 16
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "FLOAT",
+            "valuesByMode": {
+                "2:0": 16
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:5:26",
+            "name": "UI Font Sizes/link-sm",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": 14
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "FLOAT",
+            "valuesByMode": {
+                "2:0": 14
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:5:27",
+            "name": "UI Font Sizes/link-xs",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": "12"
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "STRING",
+            "valuesByMode": {
+                "2:0": "12"
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:5:28",
+            "name": "Display Font Sizes/display-sm",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": 25
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "FLOAT",
+            "valuesByMode": {
+                "2:0": 25
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:5:30",
+            "name": "Display Font Sizes/display-lg-line-heigh",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": 115
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "FLOAT",
+            "valuesByMode": {
+                "2:0": 115
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:5:31",
+            "name": "Display Font Sizes/display-md-line-heigh",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": 96
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "FLOAT",
+            "valuesByMode": {
+                "2:0": 96
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:5:32",
+            "name": "Display Font Sizes/display-sm-line-heigh",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": 76
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "FLOAT",
+            "valuesByMode": {
+                "2:0": 76
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:5:33",
+            "name": "Display Font Sizes/display-letter-spacing",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": -2.5
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "FLOAT",
+            "valuesByMode": {
+                "2:0": -2.5
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:5:34",
+            "name": "Headings Font Sizes/headdings-letter-spacing",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": -2
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "FLOAT",
+            "valuesByMode": {
+                "2:0": -2
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:5:35",
+            "name": "UI Font Sizes/ui-letter-spacing",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": -1
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "FLOAT",
+            "valuesByMode": {
+                "2:0": -1
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:29:1350",
+            "name": "Colors/Primary/Primary",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": {
+                        "a": 1,
+                        "b": 0.250980406999588,
+                        "g": 0.42352941632270813,
+                        "r": 1
+                    }
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "COLOR",
+            "valuesByMode": {
+                "2:0": {
+                    "a": 1,
+                    "b": 0.250980406999588,
+                    "g": 0.42352941632270813,
+                    "r": 1
+                }
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:29:1351",
+            "name": "Colors/Secondary/Secondary",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": {
+                        "a": 1,
+                        "b": 0.22745098173618317,
+                        "g": 0.1725490242242813,
+                        "r": 0.1725490242242813
+                    }
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "COLOR",
+            "valuesByMode": {
+                "2:0": {
+                    "a": 1,
+                    "b": 0.22745098173618317,
+                    "g": 0.1725490242242813,
+                    "r": 0.1725490242242813
+                }
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:32:19",
+            "name": "Colors/Accent/Red",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": {
+                        "a": 1,
+                        "b": 0.15682479739189148,
+                        "g": 0.20503652095794678,
+                        "r": 0.859912097454071
+                    }
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "COLOR",
+            "valuesByMode": {
+                "2:0": {
+                    "a": 1,
+                    "b": 0.15682479739189148,
+                    "g": 0.20503652095794678,
+                    "r": 0.859912097454071
+                }
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:32:20",
+            "name": "Colors/Accent/Yellow",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": {
+                        "a": 1,
+                        "b": 0.18668586015701294,
+                        "g": 0.8046750426292419,
+                        "r": 0.9900715947151184
+                    }
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "COLOR",
+            "valuesByMode": {
+                "2:0": {
+                    "a": 1,
+                    "b": 0.18668586015701294,
+                    "g": 0.8046750426292419,
+                    "r": 0.9900715947151184
+                }
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:32:21",
+            "name": "Colors/Accent/Blue",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": {
+                        "a": 1,
+                        "b": 0.8995931148529053,
+                        "g": 0.8456962704658508,
+                        "r": 0.29902979731559753
+                    }
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "COLOR",
+            "valuesByMode": {
+                "2:0": {
+                    "a": 1,
+                    "b": 0.8995931148529053,
+                    "g": 0.8456962704658508,
+                    "r": 0.29902979731559753
+                }
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:32:22",
+            "name": "Colors/Accent/Green",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": {
+                        "a": 1,
+                        "b": 0.5459586977958679,
+                        "g": 0.5583821535110474,
+                        "r": 0.15255539119243622
+                    }
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "COLOR",
+            "valuesByMode": {
+                "2:0": {
+                    "a": 1,
+                    "b": 0.5459586977958679,
+                    "g": 0.5583821535110474,
+                    "r": 0.15255539119243622
+                }
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:33:132",
+            "name": "Colors/Neutral/Neutral 1000",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": {
+                        "a": 1,
+                        "b": 0.1321614533662796,
+                        "g": 0.08722570538520813,
+                        "r": 0.08722570538520813
+                    }
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "COLOR",
+            "valuesByMode": {
+                "2:0": {
+                    "a": 1,
+                    "b": 0.1321614533662796,
+                    "g": 0.08722570538520813,
+                    "r": 0.08722570538520813
+                }
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:33:133",
+            "name": "Colors/Neutral/Neutral 900",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": {
+                        "a": 1,
+                        "b": 0.1736653596162796,
+                        "g": 0.11859501153230667,
+                        "r": 0.11859501153230667
+                    }
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "COLOR",
+            "valuesByMode": {
+                "2:0": {
+                    "a": 1,
+                    "b": 0.1736653596162796,
+                    "g": 0.11859501153230667,
+                    "r": 0.11859501153230667
+                }
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:33:134",
+            "name": "Colors/Neutral/Neutral 800",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": {
+                        "a": 1,
+                        "b": 0.22745098173618317,
+                        "g": 0.1725490242242813,
+                        "r": 0.1725490242242813
+                    }
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "COLOR",
+            "valuesByMode": {
+                "2:0": {
+                    "a": 1,
+                    "b": 0.22745098173618317,
+                    "g": 0.1725490242242813,
+                    "r": 0.1725490242242813
+                }
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:33:135",
+            "name": "Colors/Neutral/Neutral 700",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": {
+                        "a": 1,
+                        "b": 0.30642902851104736,
+                        "g": 0.2488289624452591,
+                        "r": 0.2488289624452591
+                    }
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "COLOR",
+            "valuesByMode": {
+                "2:0": {
+                    "a": 1,
+                    "b": 0.30642902851104736,
+                    "g": 0.2488289624452591,
+                    "r": 0.2488289624452591
+                }
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:33:136",
+            "name": "Colors/Neutral/Neutral 600",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": {
+                        "a": 1,
+                        "b": 0.3840983211994171,
+                        "g": 0.33600473403930664,
+                        "r": 0.33600473403930664
+                    }
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "COLOR",
+            "valuesByMode": {
+                "2:0": {
+                    "a": 1,
+                    "b": 0.3840983211994171,
+                    "g": 0.33600473403930664,
+                    "r": 0.33600473403930664
+                }
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:33:137",
+            "name": "Colors/Neutral/Neutral 500",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": {
+                        "a": 1,
+                        "b": 0.4823404848575592,
+                        "g": 0.4493052065372467,
+                        "r": 0.4493052065372467
+                    }
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "COLOR",
+            "valuesByMode": {
+                "2:0": {
+                    "a": 1,
+                    "b": 0.4823404848575592,
+                    "g": 0.4493052065372467,
+                    "r": 0.4493052065372467
+                }
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:33:138",
+            "name": "Colors/Neutral/Neutral 400",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": {
+                        "a": 1,
+                        "b": 0.5734049677848816,
+                        "g": 0.5413935780525208,
+                        "r": 0.5413935780525208
+                    }
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "COLOR",
+            "valuesByMode": {
+                "2:0": {
+                    "a": 1,
+                    "b": 0.5734049677848816,
+                    "g": 0.5413935780525208,
+                    "r": 0.5413935780525208
+                }
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:33:139",
+            "name": "Colors/Neutral/Neutral 300",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": {
+                        "a": 1,
+                        "b": 0.7066732048988342,
+                        "g": 0.6811621189117432,
+                        "r": 0.6811621189117432
+                    }
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "COLOR",
+            "valuesByMode": {
+                "2:0": {
+                    "a": 1,
+                    "b": 0.7066732048988342,
+                    "g": 0.6811621189117432,
+                    "r": 0.6811621189117432
+                }
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:33:140",
+            "name": "Colors/Neutral/Neutral 200",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": {
+                        "a": 1,
+                        "b": 0.8381510376930237,
+                        "g": 0.8218900561332703,
+                        "r": 0.8218900561332703
+                    }
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "COLOR",
+            "valuesByMode": {
+                "2:0": {
+                    "a": 1,
+                    "b": 0.8381510376930237,
+                    "g": 0.8218900561332703,
+                    "r": 0.8218900561332703
+                }
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:33:141",
+            "name": "Colors/Neutral/Neutral 100",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": {
+                        "a": 1,
+                        "b": 0.901904284954071,
+                        "g": 0.8911736607551575,
+                        "r": 0.8911736607551575
+                    }
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "COLOR",
+            "valuesByMode": {
+                "2:0": {
+                    "a": 1,
+                    "b": 0.901904284954071,
+                    "g": 0.8911736607551575,
+                    "r": 0.8911736607551575
+                }
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:33:142",
+            "name": "Colors/Neutral/Neutral 0",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": {
+                        "a": 1,
+                        "b": 1,
+                        "g": 1,
+                        "r": 1
+                    }
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "COLOR",
+            "valuesByMode": {
+                "2:0": {
+                    "a": 1,
+                    "b": 1,
+                    "g": 1,
+                    "r": 1
+                }
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:39:137",
+            "name": "Colors/Shades/O100",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": {
+                        "a": 1,
+                        "b": 0,
+                        "g": 0.12798164784908295,
+                        "r": 0.30000001192092896
+                    }
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "COLOR",
+            "valuesByMode": {
+                "2:0": {
+                    "a": 1,
+                    "b": 0,
+                    "g": 0.12798164784908295,
+                    "r": 0.30000001192092896
+                }
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:39:138",
+            "name": "Colors/Shades/O900",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": {
+                        "a": 1,
+                        "b": 0.03921568766236305,
+                        "g": 0.19607843458652496,
+                        "r": 0.4000000059604645
+                    }
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "COLOR",
+            "valuesByMode": {
+                "2:0": {
+                    "a": 1,
+                    "b": 0.03921568766236305,
+                    "g": 0.19607843458652496,
+                    "r": 0.4000000059604645
+                }
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:39:139",
+            "name": "Colors/Shades/O800",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": {
+                        "a": 1,
+                        "b": 0.04999999701976776,
+                        "g": 0.24197246134281158,
+                        "r": 0.5
+                    }
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "COLOR",
+            "valuesByMode": {
+                "2:0": {
+                    "a": 1,
+                    "b": 0.04999999701976776,
+                    "g": 0.24197246134281158,
+                    "r": 0.5
+                }
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:39:140",
+            "name": "Colors/Shades/O700",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": {
+                        "a": 1,
+                        "b": 0.11167018115520477,
+                        "g": 0.32173025608062744,
+                        "r": 0.6040689945220947
+                    }
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "COLOR",
+            "valuesByMode": {
+                "2:0": {
+                    "a": 1,
+                    "b": 0.11167018115520477,
+                    "g": 0.32173025608062744,
+                    "r": 0.6040689945220947
+                }
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:39:141",
+            "name": "Colors/Shades/O600",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": {
+                        "a": 1,
+                        "b": 0.15844611823558807,
+                        "g": 0.37993568181991577,
+                        "r": 0.6776367425918579
+                    }
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "COLOR",
+            "valuesByMode": {
+                "2:0": {
+                    "a": 1,
+                    "b": 0.15844611823558807,
+                    "g": 0.37993568181991577,
+                    "r": 0.6776367425918579
+                }
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:39:142",
+            "name": "Colors/Shades/O500",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": {
+                        "a": 1,
+                        "b": 0.3607843220233917,
+                        "g": 0.5882353186607361,
+                        "r": 0.8980392217636108
+                    }
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "COLOR",
+            "valuesByMode": {
+                "2:0": {
+                    "a": 1,
+                    "b": 0.3607843220233917,
+                    "g": 0.5882353186607361,
+                    "r": 0.8980392217636108
+                }
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:39:143",
+            "name": "Colors/Shades/O400",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": {
+                        "a": 1,
+                        "b": 0.4745098054409027,
+                        "g": 0.6745098233222961,
+                        "r": 0.9490196108818054
+                    }
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "COLOR",
+            "valuesByMode": {
+                "2:0": {
+                    "a": 1,
+                    "b": 0.4745098054409027,
+                    "g": 0.6745098233222961,
+                    "r": 0.9490196108818054
+                }
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:39:144",
+            "name": "Colors/Shades/O300",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": {
+                        "a": 1,
+                        "b": 0.5699999928474426,
+                        "g": 0.7307692170143127,
+                        "r": 0.949999988079071
+                    }
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "COLOR",
+            "valuesByMode": {
+                "2:0": {
+                    "a": 1,
+                    "b": 0.5699999928474426,
+                    "g": 0.7307692170143127,
+                    "r": 0.949999988079071
+                }
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:39:145",
+            "name": "Colors/Shades/O200",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": {
+                        "a": 1,
+                        "b": 0.686274528503418,
+                        "g": 0.8117647171020508,
+                        "r": 0.9803921580314636
+                    }
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "COLOR",
+            "valuesByMode": {
+                "2:0": {
+                    "a": 1,
+                    "b": 0.686274528503418,
+                    "g": 0.8117647171020508,
+                    "r": 0.9803921580314636
+                }
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:39:147",
+            "name": "Colors/Shades/O10",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": {
+                        "a": 1,
+                        "b": 0.8980392217636108,
+                        "g": 0.9411764740943909,
+                        "r": 1
+                    }
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "COLOR",
+            "valuesByMode": {
+                "2:0": {
+                    "a": 1,
+                    "b": 0.8980392217636108,
+                    "g": 0.9411764740943909,
+                    "r": 1
+                }
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:39:148",
+            "name": "Colors/Shades/T1000",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": {
+                        "a": 1,
+                        "b": 0.1882352977991104,
+                        "g": 0.20000000298023224,
+                        "r": 0
+                    }
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "COLOR",
+            "valuesByMode": {
+                "2:0": {
+                    "a": 1,
+                    "b": 0.1882352977991104,
+                    "g": 0.20000000298023224,
+                    "r": 0
+                }
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:39:149",
+            "name": "Colors/Shades/T900",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": {
+                        "a": 1,
+                        "b": 0.2705882489681244,
+                        "g": 0.2862745225429535,
+                        "r": 0.01568627543747425
+                    }
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "COLOR",
+            "valuesByMode": {
+                "2:0": {
+                    "a": 1,
+                    "b": 0.2705882489681244,
+                    "g": 0.2862745225429535,
+                    "r": 0.01568627543747425
+                }
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:39:150",
+            "name": "Colors/Shades/T800",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": {
+                        "a": 1,
+                        "b": 0.3294117748737335,
+                        "g": 0.3490196168422699,
+                        "r": 0.03529411926865578
+                    }
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "COLOR",
+            "valuesByMode": {
+                "2:0": {
+                    "a": 1,
+                    "b": 0.3294117748737335,
+                    "g": 0.3490196168422699,
+                    "r": 0.03529411926865578
+                }
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:39:151",
+            "name": "Colors/Shades/T700",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": {
+                        "a": 1,
+                        "b": 0.38739654421806335,
+                        "g": 0.4078125059604645,
+                        "r": 0.05053184553980827
+                    }
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "COLOR",
+            "valuesByMode": {
+                "2:0": {
+                    "a": 1,
+                    "b": 0.38739654421806335,
+                    "g": 0.4078125059604645,
+                    "r": 0.05053184553980827
+                }
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:39:152",
+            "name": "Colors/Shades/T600",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": {
+                        "a": 1,
+                        "b": 0.4706229269504547,
+                        "g": 0.49467772245407104,
+                        "r": 0.07371857762336731
+                    }
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "COLOR",
+            "valuesByMode": {
+                "2:0": {
+                    "a": 1,
+                    "b": 0.4706229269504547,
+                    "g": 0.49467772245407104,
+                    "r": 0.07371857762336731
+                }
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:39:153",
+            "name": "Colors/Shades/T500",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": {
+                        "a": 1,
+                        "b": 0.7882353067398071,
+                        "g": 0.8117647171020508,
+                        "r": 0.27843138575553894
+                    }
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "COLOR",
+            "valuesByMode": {
+                "2:0": {
+                    "a": 1,
+                    "b": 0.7882353067398071,
+                    "g": 0.8117647171020508,
+                    "r": 0.27843138575553894
+                }
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:39:154",
+            "name": "Colors/Shades/T400",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": {
+                        "a": 1,
+                        "b": 0.8117647171020508,
+                        "g": 0.8352941274642944,
+                        "r": 0.3137255012989044
+                    }
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "COLOR",
+            "valuesByMode": {
+                "2:0": {
+                    "a": 1,
+                    "b": 0.8117647171020508,
+                    "g": 0.8352941274642944,
+                    "r": 0.3137255012989044
+                }
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:39:155",
+            "name": "Colors/Shades/T300",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": {
+                        "a": 1,
+                        "b": 0.886274516582489,
+                        "g": 0.9058823585510254,
+                        "r": 0.45098039507865906
+                    }
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "COLOR",
+            "valuesByMode": {
+                "2:0": {
+                    "a": 1,
+                    "b": 0.886274516582489,
+                    "g": 0.9058823585510254,
+                    "r": 0.45098039507865906
+                }
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:39:156",
+            "name": "Colors/Shades/T200",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": {
+                        "a": 1,
+                        "b": 0.9176470637321472,
+                        "g": 0.9333333373069763,
+                        "r": 0.6000000238418579
+                    }
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "COLOR",
+            "valuesByMode": {
+                "2:0": {
+                    "a": 1,
+                    "b": 0.9176470637321472,
+                    "g": 0.9333333373069763,
+                    "r": 0.6000000238418579
+                }
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:39:157",
+            "name": "Colors/Shades/T100",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": {
+                        "a": 1,
+                        "b": 0.9960784316062927,
+                        "g": 1,
+                        "r": 0.8980392217636108
+                    }
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "COLOR",
+            "valuesByMode": {
+                "2:0": {
+                    "a": 1,
+                    "b": 0.9960784316062927,
+                    "g": 1,
+                    "r": 0.8980392217636108
+                }
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:40:158",
+            "name": "Colors/Shades/R1000",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": {
+                        "a": 1,
+                        "b": 0.003921568859368563,
+                        "g": 0.027450980618596077,
+                        "r": 0.25882354378700256
+                    }
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "COLOR",
+            "valuesByMode": {
+                "2:0": {
+                    "a": 1,
+                    "b": 0.003921568859368563,
+                    "g": 0.027450980618596077,
+                    "r": 0.25882354378700256
+                }
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:40:159",
+            "name": "Colors/Shades/R900",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": {
+                        "a": 1,
+                        "b": 0.0235294122248888,
+                        "g": 0.054901961237192154,
+                        "r": 0.3686274588108063
+                    }
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "COLOR",
+            "valuesByMode": {
+                "2:0": {
+                    "a": 1,
+                    "b": 0.0235294122248888,
+                    "g": 0.054901961237192154,
+                    "r": 0.3686274588108063
+                }
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:40:160",
+            "name": "Colors/Shades/R800",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": {
+                        "a": 1,
+                        "b": 0.10980392247438431,
+                        "g": 0.13725490868091583,
+                        "r": 0.4745098054409027
+                    }
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "COLOR",
+            "valuesByMode": {
+                "2:0": {
+                    "a": 1,
+                    "b": 0.10980392247438431,
+                    "g": 0.13725490868091583,
+                    "r": 0.4745098054409027
+                }
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:40:161",
+            "name": "Colors/Shades/R700",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": {
+                        "a": 1,
+                        "b": 0.11764705926179886,
+                        "g": 0.15294118225574493,
+                        "r": 0.5529412031173706
+                    }
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "COLOR",
+            "valuesByMode": {
+                "2:0": {
+                    "a": 1,
+                    "b": 0.11764705926179886,
+                    "g": 0.15294118225574493,
+                    "r": 0.5529412031173706
+                }
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:40:162",
+            "name": "Colors/Shades/R600",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": {
+                        "a": 1,
+                        "b": 0.14509804546833038,
+                        "g": 0.18431372940540314,
+                        "r": 0.6117647290229797
+                    }
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "COLOR",
+            "valuesByMode": {
+                "2:0": {
+                    "a": 1,
+                    "b": 0.14509804546833038,
+                    "g": 0.18431372940540314,
+                    "r": 0.6117647290229797
+                }
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:40:163",
+            "name": "Colors/Shades/R500",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": {
+                        "a": 1,
+                        "b": 0.23137255012989044,
+                        "g": 0.2705882489681244,
+                        "r": 0.7411764860153198
+                    }
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "COLOR",
+            "valuesByMode": {
+                "2:0": {
+                    "a": 1,
+                    "b": 0.23137255012989044,
+                    "g": 0.2705882489681244,
+                    "r": 0.7411764860153198
+                }
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:40:164",
+            "name": "Colors/Shades/R400",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": {
+                        "a": 1,
+                        "b": 0.2980392277240753,
+                        "g": 0.34117648005485535,
+                        "r": 0.800000011920929
+                    }
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "COLOR",
+            "valuesByMode": {
+                "2:0": {
+                    "a": 1,
+                    "b": 0.2980392277240753,
+                    "g": 0.34117648005485535,
+                    "r": 0.800000011920929
+                }
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:40:165",
+            "name": "Colors/Shades/R300",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": {
+                        "a": 1,
+                        "b": 0.34117648005485535,
+                        "g": 0.3803921639919281,
+                        "r": 0.8352941274642944
+                    }
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "COLOR",
+            "valuesByMode": {
+                "2:0": {
+                    "a": 1,
+                    "b": 0.34117648005485535,
+                    "g": 0.3803921639919281,
+                    "r": 0.8352941274642944
+                }
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:40:166",
+            "name": "Colors/Shades/R200",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": {
+                        "a": 1,
+                        "b": 0.4869580566883087,
+                        "g": 0.5222324132919312,
+                        "r": 0.9173014163970947
+                    }
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "COLOR",
+            "valuesByMode": {
+                "2:0": {
+                    "a": 1,
+                    "b": 0.4869580566883087,
+                    "g": 0.5222324132919312,
+                    "r": 0.9173014163970947
+                }
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:40:167",
+            "name": "Colors/Shades/R100",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": {
+                        "a": 1,
+                        "b": 0.896484375,
+                        "g": 0.9054858088493347,
+                        "r": 1
+                    }
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "COLOR",
+            "valuesByMode": {
+                "2:0": {
+                    "a": 1,
+                    "b": 0.896484375,
+                    "g": 0.9054858088493347,
+                    "r": 1
+                }
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:41:168",
+            "name": "Colors/Shades/Y1000",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": {
+                        "a": 1,
+                        "b": 0.01568627543747425,
+                        "g": 0.2980392277240753,
+                        "r": 0.4156862795352936
+                    }
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "COLOR",
+            "valuesByMode": {
+                "2:0": {
+                    "a": 1,
+                    "b": 0.01568627543747425,
+                    "g": 0.2980392277240753,
+                    "r": 0.4156862795352936
+                }
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:41:169",
+            "name": "Colors/Shades/Y900",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": {
+                        "a": 1,
+                        "b": 0.012125790119171143,
+                        "g": 0.3544299602508545,
+                        "r": 0.4972817599773407
+                    }
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "COLOR",
+            "valuesByMode": {
+                "2:0": {
+                    "a": 1,
+                    "b": 0.012125790119171143,
+                    "g": 0.3544299602508545,
+                    "r": 0.4972817599773407
+                }
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:41:170",
+            "name": "Colors/Shades/Y800",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": {
+                        "a": 1,
+                        "b": 0.01568627543747425,
+                        "g": 0.4313725531101227,
+                        "r": 0.6000000238418579
+                    }
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "COLOR",
+            "valuesByMode": {
+                "2:0": {
+                    "a": 1,
+                    "b": 0.01568627543747425,
+                    "g": 0.4313725531101227,
+                    "r": 0.6000000238418579
+                }
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:41:171",
+            "name": "Colors/Shades/Y700",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": {
+                        "a": 1,
+                        "b": 0.0313725508749485,
+                        "g": 0.5058823823928833,
+                        "r": 0.7019608020782471
+                    }
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "COLOR",
+            "valuesByMode": {
+                "2:0": {
+                    "a": 1,
+                    "b": 0.0313725508749485,
+                    "g": 0.5058823823928833,
+                    "r": 0.7019608020782471
+                }
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:41:172",
+            "name": "Colors/Shades/Y600",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": {
+                        "a": 1,
+                        "b": 0.11764705926179886,
+                        "g": 0.6235294342041016,
+                        "r": 0.8313725590705872
+                    }
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "COLOR",
+            "valuesByMode": {
+                "2:0": {
+                    "a": 1,
+                    "b": 0.11764705926179886,
+                    "g": 0.6235294342041016,
+                    "r": 0.8313725590705872
+                }
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:41:173",
+            "name": "Colors/Shades/Y500",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": {
+                        "a": 1,
+                        "b": 0.3921568691730499,
+                        "g": 0.7568627595901489,
+                        "r": 0.9098039269447327
+                    }
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "COLOR",
+            "valuesByMode": {
+                "2:0": {
+                    "a": 1,
+                    "b": 0.3921568691730499,
+                    "g": 0.7568627595901489,
+                    "r": 0.9098039269447327
+                }
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:41:174",
+            "name": "Colors/Shades/Y400",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": {
+                        "a": 1,
+                        "b": 0.42524388432502747,
+                        "g": 0.7622353434562683,
+                        "r": 0.9029462337493896
+                    }
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "COLOR",
+            "valuesByMode": {
+                "2:0": {
+                    "a": 1,
+                    "b": 0.42524388432502747,
+                    "g": 0.7622353434562683,
+                    "r": 0.9029462337493896
+                }
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:41:175",
+            "name": "Colors/Shades/Y300",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": {
+                        "a": 1,
+                        "b": 0.5215686559677124,
+                        "g": 0.8196078538894653,
+                        "r": 0.9450980424880981
+                    }
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "COLOR",
+            "valuesByMode": {
+                "2:0": {
+                    "a": 1,
+                    "b": 0.5215686559677124,
+                    "g": 0.8196078538894653,
+                    "r": 0.9450980424880981
+                }
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:41:176",
+            "name": "Colors/Shades/Y200",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": {
+                        "a": 1,
+                        "b": 0.6000000238418579,
+                        "g": 0.8549019694328308,
+                        "r": 0.9607843160629272
+                    }
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "COLOR",
+            "valuesByMode": {
+                "2:0": {
+                    "a": 1,
+                    "b": 0.6000000238418579,
+                    "g": 0.8549019694328308,
+                    "r": 0.9607843160629272
+                }
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:41:177",
+            "name": "Colors/Shades/Y100",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": {
+                        "a": 1,
+                        "b": 0.8110103607177734,
+                        "g": 0.9331888556480408,
+                        "r": 0.9842044711112976
+                    }
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "COLOR",
+            "valuesByMode": {
+                "2:0": {
+                    "a": 1,
+                    "b": 0.8110103607177734,
+                    "g": 0.9331888556480408,
+                    "r": 0.9842044711112976
+                }
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:41:178",
+            "name": "Colors/Shades/B1000",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": {
+                        "a": 1,
+                        "b": 0.42352941632270813,
+                        "g": 0.3843137323856354,
+                        "r": 0.0117647061124444
+                    }
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "COLOR",
+            "valuesByMode": {
+                "2:0": {
+                    "a": 1,
+                    "b": 0.42352941632270813,
+                    "g": 0.3843137323856354,
+                    "r": 0.0117647061124444
+                }
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:41:179",
+            "name": "Colors/Shades/B900",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": {
+                        "a": 1,
+                        "b": 0.5087550282478333,
+                        "g": 0.4629562199115753,
+                        "r": 0.027866041287779808
+                    }
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "COLOR",
+            "valuesByMode": {
+                "2:0": {
+                    "a": 1,
+                    "b": 0.5087550282478333,
+                    "g": 0.4629562199115753,
+                    "r": 0.027866041287779808
+                }
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:41:180",
+            "name": "Colors/Shades/B800",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": {
+                        "a": 1,
+                        "b": 0.5568627715110779,
+                        "g": 0.5098039507865906,
+                        "r": 0.03529411926865578
+                    }
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "COLOR",
+            "valuesByMode": {
+                "2:0": {
+                    "a": 1,
+                    "b": 0.5568627715110779,
+                    "g": 0.5098039507865906,
+                    "r": 0.03529411926865578
+                }
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:41:181",
+            "name": "Colors/Shades/B700",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": {
+                        "a": 1,
+                        "b": 0.6235294342041016,
+                        "g": 0.572549045085907,
+                        "r": 0.07058823853731155
+                    }
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "COLOR",
+            "valuesByMode": {
+                "2:0": {
+                    "a": 1,
+                    "b": 0.6235294342041016,
+                    "g": 0.572549045085907,
+                    "r": 0.07058823853731155
+                }
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:41:182",
+            "name": "Colors/Shades/B600",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": {
+                        "a": 1,
+                        "b": 0.7647058963775635,
+                        "g": 0.7058823704719543,
+                        "r": 0.10196078568696976
+                    }
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "COLOR",
+            "valuesByMode": {
+                "2:0": {
+                    "a": 1,
+                    "b": 0.7647058963775635,
+                    "g": 0.7058823704719543,
+                    "r": 0.10196078568696976
+                }
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:41:183",
+            "name": "Colors/Shades/B500",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": {
+                        "a": 1,
+                        "b": 0.8800064325332642,
+                        "g": 0.8076030015945435,
+                        "r": 0.0835677906870842
+                    }
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "COLOR",
+            "valuesByMode": {
+                "2:0": {
+                    "a": 1,
+                    "b": 0.8800064325332642,
+                    "g": 0.8076030015945435,
+                    "r": 0.0835677906870842
+                }
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:41:184",
+            "name": "Colors/Shades/B400",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": {
+                        "a": 1,
+                        "b": 0.8800064325332642,
+                        "g": 0.8076030015945435,
+                        "r": 0.0835677906870842
+                    }
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "COLOR",
+            "valuesByMode": {
+                "2:0": {
+                    "a": 1,
+                    "b": 0.8800064325332642,
+                    "g": 0.8076030015945435,
+                    "r": 0.0835677906870842
+                }
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:41:185",
+            "name": "Colors/Shades/B300",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": {
+                        "a": 1,
+                        "b": 0.9176470637321472,
+                        "g": 0.8823529481887817,
+                        "r": 0.5333333611488342
+                    }
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "COLOR",
+            "valuesByMode": {
+                "2:0": {
+                    "a": 1,
+                    "b": 0.9176470637321472,
+                    "g": 0.8823529481887817,
+                    "r": 0.5333333611488342
+                }
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:41:186",
+            "name": "Colors/Shades/B200",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": {
+                        "a": 1,
+                        "b": 0.9372549057006836,
+                        "g": 0.9137254953384399,
+                        "r": 0.6745098233222961
+                    }
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "COLOR",
+            "valuesByMode": {
+                "2:0": {
+                    "a": 1,
+                    "b": 0.9372549057006836,
+                    "g": 0.9137254953384399,
+                    "r": 0.6745098233222961
+                }
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:41:187",
+            "name": "Colors/Shades/B100",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": {
+                        "a": 1,
+                        "b": 0.9647058844566345,
+                        "g": 0.95686274766922,
+                        "r": 0.8784313797950745
+                    }
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "COLOR",
+            "valuesByMode": {
+                "2:0": {
+                    "a": 1,
+                    "b": 0.9647058844566345,
+                    "g": 0.95686274766922,
+                    "r": 0.8784313797950745
+                }
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:42:191",
+            "name": "Colors/Shades/G1000",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": {
+                        "a": 1,
+                        "b": 0.25882354378700256,
+                        "g": 0.3843137323856354,
+                        "r": 0.0117647061124444
+                    }
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "COLOR",
+            "valuesByMode": {
+                "2:0": {
+                    "a": 1,
+                    "b": 0.25882354378700256,
+                    "g": 0.3843137323856354,
+                    "r": 0.0117647061124444
+                }
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:42:192",
+            "name": "Colors/Shades/G900",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": {
+                        "a": 1,
+                        "b": 0.30588236451148987,
+                        "g": 0.45098039507865906,
+                        "r": 0.019607843831181526
+                    }
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "COLOR",
+            "valuesByMode": {
+                "2:0": {
+                    "a": 1,
+                    "b": 0.30588236451148987,
+                    "g": 0.45098039507865906,
+                    "r": 0.019607843831181526
+                }
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:42:193",
+            "name": "Colors/Shades/G800",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": {
+                        "a": 1,
+                        "b": 0.3764705955982208,
+                        "g": 0.5333333611488342,
+                        "r": 0.06666667014360428
+                    }
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "COLOR",
+            "valuesByMode": {
+                "2:0": {
+                    "a": 1,
+                    "b": 0.3764705955982208,
+                    "g": 0.5333333611488342,
+                    "r": 0.06666667014360428
+                }
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:42:194",
+            "name": "Colors/Shades/G700",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": {
+                        "a": 1,
+                        "b": 0.4067196547985077,
+                        "g": 0.5800583958625793,
+                        "r": 0.06437518447637558
+                    }
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "COLOR",
+            "valuesByMode": {
+                "2:0": {
+                    "a": 1,
+                    "b": 0.4067196547985077,
+                    "g": 0.5800583958625793,
+                    "r": 0.06437518447637558
+                }
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:42:195",
+            "name": "Colors/Shades/G600",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": {
+                        "a": 1,
+                        "b": 0.524025559425354,
+                        "g": 0.7400780320167542,
+                        "r": 0.09192068874835968
+                    }
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "COLOR",
+            "valuesByMode": {
+                "2:0": {
+                    "a": 1,
+                    "b": 0.524025559425354,
+                    "g": 0.7400780320167542,
+                    "r": 0.09192068874835968
+                }
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:42:196",
+            "name": "Colors/Shades/G500",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": {
+                        "a": 1,
+                        "b": 0.6042981743812561,
+                        "g": 0.8008827567100525,
+                        "r": 0.21112897992134094
+                    }
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "COLOR",
+            "valuesByMode": {
+                "2:0": {
+                    "a": 1,
+                    "b": 0.6042981743812561,
+                    "g": 0.8008827567100525,
+                    "r": 0.21112897992134094
+                }
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:42:197",
+            "name": "Colors/Shades/G400",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": {
+                        "a": 1,
+                        "b": 0.6471622586250305,
+                        "g": 0.8351237177848816,
+                        "r": 0.2712385058403015
+                    }
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "COLOR",
+            "valuesByMode": {
+                "2:0": {
+                    "a": 1,
+                    "b": 0.6471622586250305,
+                    "g": 0.8351237177848816,
+                    "r": 0.2712385058403015
+                }
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:42:198",
+            "name": "Colors/Shades/G300",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": {
+                        "a": 1,
+                        "b": 0.6977034211158752,
+                        "g": 0.8882734775543213,
+                        "r": 0.3232499361038208
+                    }
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "COLOR",
+            "valuesByMode": {
+                "2:0": {
+                    "a": 1,
+                    "b": 0.6977034211158752,
+                    "g": 0.8882734775543213,
+                    "r": 0.3232499361038208
+                }
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:42:199",
+            "name": "Colors/Shades/G200",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": {
+                        "a": 1,
+                        "b": 0.7803921699523926,
+                        "g": 0.8941176533699036,
+                        "r": 0.5568627715110779
+                    }
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "COLOR",
+            "valuesByMode": {
+                "2:0": {
+                    "a": 1,
+                    "b": 0.7803921699523926,
+                    "g": 0.8941176533699036,
+                    "r": 0.5568627715110779
+                }
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:42:200",
+            "name": "Colors/Shades/G100",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": {
+                        "a": 1,
+                        "b": 0.886274516582489,
+                        "g": 0.929411768913269,
+                        "r": 0.8039215803146362
+                    }
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "COLOR",
+            "valuesByMode": {
+                "2:0": {
+                    "a": 1,
+                    "b": 0.886274516582489,
+                    "g": 0.929411768913269,
+                    "r": 0.8039215803146362
+                }
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:115:42",
+            "name": "Colors/Neutral/Neutral 50",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": {
+                        "a": 1,
+                        "b": 0.9536946415901184,
+                        "g": 0.9536946415901184,
+                        "r": 0.9536946415901184
+                    }
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "COLOR",
+            "valuesByMode": {
+                "2:0": {
+                    "a": 1,
+                    "b": 0.9536946415901184,
+                    "g": 0.9536946415901184,
+                    "r": 0.9536946415901184
+                }
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:117:42",
+            "name": "Colors/Accent/Purple",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": {
+                        "a": 1,
+                        "b": 0.9450980424880981,
+                        "g": 0.40392157435417175,
+                        "r": 0.545098066329956
+                    }
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "COLOR",
+            "valuesByMode": {
+                "2:0": {
+                    "a": 1,
+                    "b": 0.9450980424880981,
+                    "g": 0.40392157435417175,
+                    "r": 0.545098066329956
+                }
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:117:43",
+            "name": "Colors/Shades/P1000",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": {
+                        "a": 1,
+                        "b": 0.2666666805744171,
+                        "g": 0.01568627543747425,
+                        "r": 0.0784313753247261
+                    }
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "COLOR",
+            "valuesByMode": {
+                "2:0": {
+                    "a": 1,
+                    "b": 0.2666666805744171,
+                    "g": 0.01568627543747425,
+                    "r": 0.0784313753247261
+                }
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:117:44",
+            "name": "Colors/Shades/P900",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": {
+                        "a": 1,
+                        "b": 0.2666666805744171,
+                        "g": 0.01568627543747425,
+                        "r": 0.0784313753247261
+                    }
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "COLOR",
+            "valuesByMode": {
+                "2:0": {
+                    "a": 1,
+                    "b": 0.2666666805744171,
+                    "g": 0.01568627543747425,
+                    "r": 0.0784313753247261
+                }
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:117:45",
+            "name": "Colors/Shades/P800",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": {
+                        "a": 1,
+                        "b": 0.529411792755127,
+                        "g": 0.0235294122248888,
+                        "r": 0.1568627506494522
+                    }
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "COLOR",
+            "valuesByMode": {
+                "2:0": {
+                    "a": 1,
+                    "b": 0.529411792755127,
+                    "g": 0.0235294122248888,
+                    "r": 0.1568627506494522
+                }
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:117:46",
+            "name": "Colors/Shades/P700",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": {
+                        "a": 1,
+                        "b": 0.6627451181411743,
+                        "g": 0.062745101749897,
+                        "r": 0.21960784494876862
+                    }
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "COLOR",
+            "valuesByMode": {
+                "2:0": {
+                    "a": 1,
+                    "b": 0.6627451181411743,
+                    "g": 0.062745101749897,
+                    "r": 0.21960784494876862
+                }
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:117:47",
+            "name": "Colors/Shades/P600",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": {
+                        "a": 1,
+                        "b": 0.8313725590705872,
+                        "g": 0.12941177189350128,
+                        "r": 0.30980393290519714
+                    }
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "COLOR",
+            "valuesByMode": {
+                "2:0": {
+                    "a": 1,
+                    "b": 0.8313725590705872,
+                    "g": 0.12941177189350128,
+                    "r": 0.30980393290519714
+                }
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:117:48",
+            "name": "Colors/Shades/P500",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": {
+                        "a": 1,
+                        "b": 0.886274516582489,
+                        "g": 0.19607843458652496,
+                        "r": 0.3764705955982208
+                    }
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "COLOR",
+            "valuesByMode": {
+                "2:0": {
+                    "a": 1,
+                    "b": 0.886274516582489,
+                    "g": 0.19607843458652496,
+                    "r": 0.3764705955982208
+                }
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:117:49",
+            "name": "Colors/Shades/P400",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": {
+                        "a": 1,
+                        "b": 0.8705882430076599,
+                        "g": 0.3607843220233917,
+                        "r": 0.4941176474094391
+                    }
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "COLOR",
+            "valuesByMode": {
+                "2:0": {
+                    "a": 1,
+                    "b": 0.8705882430076599,
+                    "g": 0.3607843220233917,
+                    "r": 0.4941176474094391
+                }
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:117:50",
+            "name": "Colors/Shades/P300",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": {
+                        "a": 1,
+                        "b": 0.886274516582489,
+                        "g": 0.5568627715110779,
+                        "r": 0.6431372761726379
+                    }
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "COLOR",
+            "valuesByMode": {
+                "2:0": {
+                    "a": 1,
+                    "b": 0.886274516582489,
+                    "g": 0.5568627715110779,
+                    "r": 0.6431372761726379
+                }
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:117:51",
+            "name": "Colors/Shades/P200",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": {
+                        "a": 1,
+                        "b": 0.8705882430076599,
+                        "g": 0.6666666865348816,
+                        "r": 0.7215686440467834
+                    }
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "COLOR",
+            "valuesByMode": {
+                "2:0": {
+                    "a": 1,
+                    "b": 0.8705882430076599,
+                    "g": 0.6666666865348816,
+                    "r": 0.7215686440467834
+                }
+            }
+        },
+        {
+            "codeSyntax": {},
+            "description": "",
+            "hiddenFromPublishing": false,
+            "id": "VariableID:117:52",
+            "name": "Colors/Shades/P100",
+            "resolvedValuesByMode": {
+                "2:0": {
+                    "alias": null,
+                    "resolvedValue": {
+                        "a": 1,
+                        "b": 0.9215686321258545,
+                        "g": 0.8235294222831726,
+                        "r": 0.8509804010391235
+                    }
+                }
+            },
+            "scopes": [
+                "ALL_SCOPES"
+            ],
+            "type": "COLOR",
+            "valuesByMode": {
+                "2:0": {
+                    "a": 1,
+                    "b": 0.9215686321258545,
+                    "g": 0.8235294222831726,
+                    "r": 0.8509804010391235
+                }
+            }
+        }
+    ]
+}
